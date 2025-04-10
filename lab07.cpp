@@ -73,7 +73,7 @@ void solvemaze(char maze[MAX][MAX])
 
     if (pathcount == 0)
     {
-        cout << "No paths found from S to E." << endl;
+        cout << "No paths found from Start to End." << endl;
     }
 }
 
