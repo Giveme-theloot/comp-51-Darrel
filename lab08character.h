@@ -12,4 +12,3 @@ public:
     int level, currentxp, basexp, xptolevel, minlevel, maxlevel;
     void charactercreation();
 };
-

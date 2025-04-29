@@ -48,8 +48,8 @@ void combat()
 {
     combathud();
     int playerattack;
-    int playerdamage = 8 * character.level / 2;
-    //int playerdamage = 300000;
+    //int playerdamage = 8 * character.level / 2;
+    int playerdamage = 300000;
     int monsterattack = 6 * monsterlevel / 2;
 
     if (character.totalhealth >= 1 && monsterhp >= 1)

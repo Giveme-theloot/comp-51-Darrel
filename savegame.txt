@@ -1,0 +1,13 @@
+sunraku
+rogue
+124 10 20 11 0 3
+0 2
+Iron Sword Weapon 5
+Chainmail Armor 6
+6
+Potion Heal 10
+Chainmail Armor 6
+Chainmail Armor 6
+Potion Heal 10
+Leather Armor Armor 4
+Iron Sword Weapon 5
